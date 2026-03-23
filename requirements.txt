@@ -1,8 +1,8 @@
-Flask==3.0.3
-Flask-Limiter==3.7.0
-python-telegram-bot==21.4
-openai==1.37.1
-requests==2.32.3
-python-dotenv==1.0.1
-Werkzeug==3.0.3
-gunicorn==23.0.0
+flask>=2.3.0
+flask-limiter>=3.5.0
+python-dotenv>=1.0.0
+openai>=1.6.0
+httpx>=0.25.0,<0.28.0
+requests>=2.31.0
+python-telegram-bot>=20.0
+gunicorn>=21.0.0
